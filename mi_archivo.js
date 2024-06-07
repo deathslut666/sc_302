@@ -1,2 +1,2 @@
 console.log('hola mundo')
-ejercicio uso git y github
+console.log("Andres Castro Jimenez")
